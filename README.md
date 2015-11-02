@@ -1,5 +1,11 @@
 # Clarion-Template-Editor 
 
+v1.04
+
+Template previewer
+- Nested template dialogs support (for #BUTTONs)
+- Quick jump to control definition (right click on a control and select "View code" item)
+
 v1.03
 
 Code editor changes: 
