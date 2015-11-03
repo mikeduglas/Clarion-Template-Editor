@@ -1,5 +1,8 @@
 # Clarion-Template-Editor 
 
+v1.04.1
+- Possible "Index was outside the bounds of the array" exception if template parser is unable to determine #PROMPT type.
+
 v1.04
 
 Template previewer
